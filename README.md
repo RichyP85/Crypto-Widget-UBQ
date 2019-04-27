@@ -44,14 +44,14 @@ Once complete, your screen should look like below.
 	- Issue rarely happens, might be issue with Rainmeter itself.
 	
 # Credits
-Unse - unWidget-Miner-Stats
+**Unse - unWidget-Miner-Stats**
 
 https://github.com/Unse/unWidget-miner-stats
 
 Skin is a simple version of Unse's work, the layout was perfect and the code was easy to follow. I only needed a widget
 for quick feedback of pool hashrates and balances, so the extra difficulty, block time, and profit measures were not for me.
 
-FlyingHyrax - CircuitousTwo
+**FlyingHyrax - CircuitousTwo**
 
 https://www.deviantart.com/flyinghyrax/art/CircuitousTwo-376652231
 
