@@ -71,7 +71,7 @@ X=130
 Y=33
 W=120
 H=4
-LeftMouseUpAction=[!CommandMeasure "mSettingsScript" "changeAlpha('textColor',$MouseX:%$)"][!RefreshGroup UBQ][!Redraw #CURRENTCONFIG#]
+LeftMouseUpAction=[!CommandMeasure "mSettingsScript" "changeAlpha('textColor',$MouseX:%$)"][!RefreshGroup UBQ][!Redraw #CURRENTCONFIG#][!ToggleConfig "CryptoWidgetUBQ" "Config.ini"]
 ToolTipText="Set the transparency of the Text color"
 
 [1ColorAlpha]
@@ -87,8 +87,7 @@ W=1
 Meter=Image
 MeterStyle=1ColorAlphaBg
 Y=63
-LeftMouseUpAction=[!CommandMeasure "mSettingsScript" "changeAlpha('numColor',$MouseX:%$)"][!RefreshGroup UBQ][!Redraw #CURRENTCONFIG#]
-ToolTipText="Set the transparency of the numerical color"
+LeftMouseUpAction=[!CommandMeasure "mSettingsScript" "changeAlpha('numColor',$MouseX:%$)"][!RefreshGroup UBQ][!Redraw #CURRENTCONFIG#][!ToggleConfig "CryptoWidgetUBQ" "Config.ini"]
 
 [2ColorAlpha]
 Meter=IMAGE
@@ -99,7 +98,7 @@ W=1
 Meter=Image
 MeterStyle=1ColorAlphaBg
 Y=93
-LeftMouseUpAction=[!CommandMeasure "mSettingsScript" "changeAlpha('barColor',$MouseX:%$)"][!RefreshGroup UBQ][!Redraw #CURRENTCONFIG#]
+LeftMouseUpAction=[!CommandMeasure "mSettingsScript" "changeAlpha('barColor',$MouseX:%$)"][!RefreshGroup UBQ][!Redraw #CURRENTCONFIG#][!ToggleConfig "CryptoWidgetUBQ" "Config.ini"]
 ToolTipText="Set the transparency of the Balance Bar color"
 
 [3ColorAlpha]
