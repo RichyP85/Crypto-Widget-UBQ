@@ -1,0 +1,21 @@
+[Variables]
+; color settings
+NumColor=21,230,136,239
+barColor=26,217,36,206
+TextColor=255,255,255,242
+textMainColor=#textMainColor#
+textSubColor=#numColor#
+
+; Colours
+BackgroundColor=47,47,47,
+BackgroundTrans=1
+Gray=170,170,170,
+DarkGray=47,47,47,
+Red=255,0,0,
+Green=0,255,0,
+
+; font attributes
+mainFont=Sansation
+subFont=#mainFont#
+fontStyle=Bold
+subTwoLines=0

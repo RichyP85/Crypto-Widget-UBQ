@@ -1,0 +1,7 @@
+[Variables]
+URL=Please Select a Pool
+Addr=Please click and input address
+Payment=1.0
+
+
+
