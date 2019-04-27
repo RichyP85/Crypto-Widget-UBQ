@@ -1,5 +1,6 @@
 # Crypto Widget for UBQ Mining
-Widget designed to monitor mining on the following pools:
+Widget designed to monitor mining on the following pools.
+
 http://ubiq.hodlpool.com                
 https://ubiqpool.maxhash.org/              
 https://ubiqpool.io
@@ -20,7 +21,7 @@ https://ubiqpool.io
 To use this skin you must first download and install the Rainmeter desktop customization tool from https://www.rainmeter.net/
 
 # Setup
-Upon opening the widget (CryptoWidgetUBQ\CryptoWidget\UBQ-Mining-Monitor) for the first time you will see two windows open like this:
+Upon opening the widget for the first time you will see two windows open like this:
 
 ![Screenshot1](https://raw.githubusercontent.com/RichyP85/Crypto-Widget-UBQ1.0/master/Screens/Screen1.png)
 
@@ -32,7 +33,7 @@ Once complete, your screen should look like below.
  
 ![Screenshot3](https://raw.githubusercontent.com/RichyP85/Crypto-Widget-UBQ1.0/master/Screens/Screen3.png)
 
-How to Use
+# How to Use
 
 ![Screenshot4](https://raw.githubusercontent.com/RichyP85/Crypto-Widget-UBQ1.0/master/Screens/Screen4.png)
 
@@ -44,12 +45,16 @@ How to Use
 	
 # Credits
 Unse - unWidget-Miner-Stats
+
 https://github.com/Unse/unWidget-miner-stats
+
 Skin is a simple version of Unse's work, the layout was perfect and the code was easy to follow. I only needed a widget
 for quick feedback of pool hashrates and balances, so the extra difficulty, block time, and profit measures were not for me.
 
 FlyingHyrax - CircuitousTwo
+
 https://www.deviantart.com/flyinghyrax/art/CircuitousTwo-376652231
+
 Used the code for his setup screen to control the colors and change the address and payout for this skin.
 Also utilized the same RainRGB.exe program that he had used.
 His skin was beautiful and well designed, check it out.
