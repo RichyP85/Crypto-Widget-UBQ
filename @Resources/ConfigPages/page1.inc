@@ -17,7 +17,7 @@ Meter=String
 MeterStyle=allText
 FontColor=#textMainColor#
 FontSize=9
-Text=UBQ1.0
+Text=UBQ#Version#
 X=-2R
 Y=1r
 

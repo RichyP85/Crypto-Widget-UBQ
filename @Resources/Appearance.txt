@@ -1,8 +1,8 @@
 [Variables]
 ; color settings
-NumColor=23,179,103,221
-barColor=26,217,36,226
-TextColor=255,255,255,242
+NumColor=24,181,105,226
+barColor=26,217,36,204
+TextColor=255,255,255,229
 textMainColor=#textMainColor#
 textSubColor=#numColor#
 
