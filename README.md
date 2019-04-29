@@ -5,11 +5,9 @@ http://ubiq.hodlpool.com
 https://ubiqpool.maxhash.org/              
 https://ubiqpool.io
 
-# Version: 1.1.1
-- Corrected Issue with Root Config folder naming 
-
 # Version: 1.1
 - Corrected issue with Settings skin unloading after text color change.
+- Corrected Issue with Root Config folder naming 
 
 # Version: 1.0
 - Forked Widget from Unse - unWidget Miner Stats
