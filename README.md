@@ -33,15 +33,15 @@ To use this skin you must first download and install the Rainmeter desktop custo
 # Setup
 Upon opening the widget for the first time you will see two windows open like this:
 
-![Screenshot1](https://raw.githubusercontent.com/RichyP85/Crypto-Widget-UBQ1.0/master/Screens/Screen1.png)
+![Screenshot1](https://raw.githubusercontent.com/RichyP85/Crypto-Widget-UBQ/master/Screens/Screen1.png)
 
 Under the address tab, you can enter your UBQ address and select the pool your mining with.
 
-![Screenshot2](https://raw.githubusercontent.com/RichyP85/Crypto-Widget-UBQ1.0/master/Screens/Screen2.png)
+![Screenshot2](https://raw.githubusercontent.com/RichyP85/Crypto-Widget-UBQ/master/Screens/Screen2.png)
 
 Once complete, your screen should look like below.
  
-![Screenshot3](https://raw.githubusercontent.com/RichyP85/Crypto-Widget-UBQ1.0/master/Screens/Screen3.png)
+![Screenshot3](https://raw.githubusercontent.com/RichyP85/Crypto-Widget-UBQ/master/Screens/Screen3.png)
 
 # How to Use
 
