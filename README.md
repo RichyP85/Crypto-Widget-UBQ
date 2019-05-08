@@ -1,7 +1,7 @@
 # Crypto Widget for UBQ Mining
 Widget designed to monitor mining on the following pools.
 
-http://ubiq.hodlpool.com                
+http://ubiq.minerpool.net/              
 https://ubiqpool.maxhash.org/              
 https://ubiqpool.io
 
